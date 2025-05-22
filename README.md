@@ -37,7 +37,7 @@ yaml
 
 | Control Panel | Bank Panel | ATM Panel |
 |---------------|------------|-----------|
-| ![Control Panel](/mnt/data/feaace13-d328-4308-9065-410b848772f4.png) | ![Bank Panel](/mnt/data/4b25ae9a-8a61-49e4-80c3-ac8aa437389c.png) | ![ATM Panel](/mnt/data/996f0a04-b429-42be-9bed-d24e4b7152f1.png) |
+| ![Control Panel](\"C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-22 230529.png") | ![Bank Panel](/mnt/data/4b25ae9a-8a61-49e4-80c3-ac8aa437389c.png) | ![ATM Panel](/mnt/data/996f0a04-b429-42be-9bed-d24e4b7152f1.png) |
 
 ---
 
