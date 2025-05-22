@@ -36,7 +36,7 @@ yaml
 
 | Control Panel | Bank Panel | ATM Panel |
 |---------------|------------|-----------|
-| ![Image](https://github.com/user-attachments/assets/1af1b3a3-0625-4794-a545-521f14998b6c) | ![Image](https://github.com/user-attachments/assets/7cf95490-db55-42fe-9663-72bd8d45d569) | ![ATM Panel](/mnt/data/996f0a04-b429-42be-9bed-d24e4b7152f1.png) |
+| ![Image](https://github.com/user-attachments/assets/1af1b3a3-0625-4794-a545-521f14998b6c) | ![Image](https://github.com/user-attachments/assets/7cf95490-db55-42fe-9663-72bd8d45d569) | ![Image](https://github.com/user-attachments/assets/7ca648cf-47c7-441d-9b23-90eca744feaf)|
 
 ---
 
