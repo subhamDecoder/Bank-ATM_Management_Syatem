@@ -1,7 +1,6 @@
 # 💰 Bank & ATM Management System (C++)
 
 A simple console-based Bank and ATM Management System built in C++. This project allows users to manage bank accounts, perform transactions, and simulate ATM functionalities using a text-based UI.
-https://github.com/subhamDecoder/Bank-ATM_Management_Syatem/blob/c0047245e2a062c1fbe39d98074fd53ea9dfbb8a/Control_panel.png
 ---
 
 ## 📁 Project Structure
